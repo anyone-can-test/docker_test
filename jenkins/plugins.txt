@@ -1,0 +1,8 @@
+credentials:1.24
+docker-plugin:0.15.0
+durable-task:1.6
+ssh-slaves:1.10
+ssh-credentials:1.11
+bootstraped-multi-test-results-report:1.4.3
+junit:1.9
+token-macro:1.11
