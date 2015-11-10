@@ -6,3 +6,14 @@ ssh-credentials:1.11
 bootstraped-multi-test-results-report:1.4.3
 junit:1.9
 token-macro:1.11
+promoted-builds:2.21
+git-client:1.18.0
+scm-api:0.2
+mailer:1.15
+matrix-project:1.4
+parameterized-trigger:2.4
+git:2.4.0
+test-results-analyzer:0.2.2
+test-stability:1.0
+javadoc:1.3
+maven-plugin:2.12.1
